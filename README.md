@@ -1,4 +1,4 @@
-# ⚽ Success Score: A Novel Statistical Parameter for Team Performance Analysis
+# ⚽ Success Score: A Data-Driven Metric for Football Performance Evaluation and Match Outcome Prediction
 
 ![Project Workflow](IMAGE-2025-02-10-23-39-42.jpg)
 
