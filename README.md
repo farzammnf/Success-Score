@@ -1,6 +1,6 @@
 # ⚽ Success Score: A Data-Driven Metric for Football Performance Evaluation and Match Outcome Prediction
 
-![Project Workflow]([IMAGE-2025-02-10-23-39-42.jpg](https://github.com/farzammnf/Success-Score/blob/main/Work-Flow))
+![Project Workflow](Work-Flow.jpg)
 
 ## 📌 About This Repository
 This repository contains the **code, dataset, and machine learning models** used in our research paper, where we introduce **Success Score**, a novel statistical parameter to measure the quality of a football team. The **Success Score** is calculated as the **sum of expected goals (xG) and actual goals scored** against their opponents and is **scaled to a range of 0 to 10** for easy interpretation.
