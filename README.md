@@ -26,8 +26,8 @@ Additionally, we **tested our model** on **2025 season data**, including 🇫�
   - `Molde's data` ⚽  Preprocessed dataset with feature engineering used in our model.
 
 ### 📂 Files
-- `Success Score` 📊  Jupyter notebooks for calculation success score and tactical play styles.
 - `Pre Process` 📈 Jupyter notebooks for feature engineering and data pre process.
+- `Success Score` 📊  Jupyter notebooks for calculation success score and tactical play styles and our model file.
 - `Evaluations` 🤖 Script for evaluating model performance.
 - `Best Possible Line Up(Problem)` 🛠️ A trial Project for fining best possible line ups using success score.
 
