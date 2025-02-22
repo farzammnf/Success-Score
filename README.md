@@ -7,11 +7,11 @@
 📁 Repository Structure
 
 📂 Data
-	•	Data/
+Data/
 	•	Contains datasets used for training and testing the model.
 
 📂 Files
-	•	Files/
+Files/
 	•	Includes scripts and notebooks for data processing and model training.
 
 
