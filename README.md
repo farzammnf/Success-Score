@@ -3,6 +3,19 @@
 ![Project Workflow](Work-Flow.jpg)
 
 ## 📌 About This Repository
+
+Data :
+
+
+
+Files :
+
+
+
+
+
+
+
 This repository contains the **code, dataset, and machine learning models** used in our research paper, where we introduce **Success Score**, a novel statistical parameter to measure the quality of a football team. The **Success Score** is calculated as the **sum of expected goals (xG) and actual goals scored** against their opponents and is **scaled to a range of 0 to 10** for easy interpretation.
 
 Our machine learning model is trained using data from **four major European leagues** over four seasons:
