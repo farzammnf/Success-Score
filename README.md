@@ -4,19 +4,29 @@
 
 ## 📌 About This Repository
 
-📁 Repository Structure
+## 📁 Repository Structure
 
-📂 Data
-Data/
-	•	Contains datasets used for training and testing the model.
+### 📂 Data
+- `Data/` 📊 Contains datasets used for training and testing the model.
+  - `raw_data.csv` 📄 Raw extracted data.
+  - `processed_data.csv` 🏗️ Preprocessed dataset with feature engineering.
+  - `match_results_2025.csv` ⚽ Test dataset for the 2025 season.
 
-📂 Files
-Files/
-	•	Includes scripts and notebooks for data processing and model training.
+### 📂 Files
+- `train_model.py` 🤖 Python script for training the machine learning model.
+- `evaluate_model.py` 📈 Script for evaluating model performance.
+- `feature_engineering.ipynb` 🛠️ Jupyter notebook for feature engineering.
+- `data_visualization.ipynb` 📊 Notebook for exploratory data analysis and visualization.
 
+### 📄 README.md
+- 📝 Provides an overview of the project, including methodology and findings.
 
+### 🖼️ Work-Flow.jpg
+- 🏗️ Visual representation of the project's workflow.
 
+---
 
+💡 **Note:** Modify filenames based on the actual structure of your repository!
 
 
 This repository contains the **code, dataset, and machine learning models** used in our research paper, where we introduce **Success Score**, a novel statistical parameter to measure the quality of a football team. The **Success Score** is calculated as the **sum of expected goals (xG) and actual goals scored** against their opponents and is **scaled to a range of 0 to 10** for easy interpretation.
